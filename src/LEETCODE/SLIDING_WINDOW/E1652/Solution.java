@@ -1,4 +1,4 @@
-package LEETCODE.E1652;
+package LEETCODE.SLIDING_WINDOW.E1652;
 
 class Solution {
     public static void main(String[] args) {

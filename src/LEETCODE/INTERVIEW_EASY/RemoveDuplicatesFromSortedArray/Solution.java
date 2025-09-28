@@ -1,4 +1,4 @@
-package LEETCODE.IE.RemoveDuplicatesFromSortedArray;
+package LEETCODE.INTERVIEW_EASY.RemoveDuplicatesFromSortedArray;
 
 class Solution {
     public int removeDuplicates(int[] nums) {

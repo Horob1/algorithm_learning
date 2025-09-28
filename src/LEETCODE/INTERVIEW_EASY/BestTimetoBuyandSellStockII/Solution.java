@@ -1,4 +1,4 @@
-package LEETCODE.IE.BestTimetoBuyandSellStockII;
+package LEETCODE.INTERVIEW_EASY.BestTimetoBuyandSellStockII;
 
 class Solution {
     public int maxProfit(int[] prices) {

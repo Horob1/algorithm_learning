@@ -1,4 +1,4 @@
-package LEETCODE.IE.RotateArray;
+package LEETCODE.INTERVIEW_EASY.RotateArray;
 
 class Solution {
     public void rotate(int[] nums, int k) {
